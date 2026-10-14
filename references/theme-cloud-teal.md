@@ -41,17 +41,21 @@
 
 ---
 
+## 组件 1 全局容器
+
+```html
+<section style="max-width:677px;margin:0 auto;background:#ffffff;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;color:#2C3338;line-height:1.75;letter-spacing:0.5px;overflow-x:hidden;">
+
+  <!-- 所有组件放在这里 -->
+
+</section>
+```
+
+---
+
 ## 组件 6 正文段落
 
 > **关键规则**：每段主动识别 1~3 个关键短语，用**浅青下划线（7d）**标记——这是本风格的核心视觉特征，让读者快速扫到每段重点。
-
-**基础段落**：
-
-```html
-<p style="margin-bottom:20px;font-size:15px;line-height:1.8;text-align:justify;">
-  <span leaf="">{{ 正文内容 }}</span>
-</p>
-```
 
 **带关键词下划线标记的段落**（推荐默认）：
 
@@ -63,16 +67,6 @@
 </p>
 ```
 
-**标记原则**：每段选 1~3 个关键短语（4~15 字）加下划线，不要整段都标；优先标核心观点、结论判断、关键数据、专有名词；无重点的段落可不标。
-
----
-
-## 组件 7 正文高亮样式（5 种变体 + 使用策略）
-
-> **核心理念**：克制用色，青绿只在真正需要的锚点出现。
->
-> **优先级**：① 7d 浅青下划线（正文默认标记）→ ② 7a 普通加粗为主、青绿加粗仅锚点 → ③ 7b 浅青底深青字标签（每篇 2~4 个）→ ④ 7c 浅青背景（次要）→ ⑤ 7e 荧光笔（偶尔长句强调）
-
 ### 7d. 浅青下划线（最常用，本风格标志性标记）
 
 ```html
@@ -81,4 +75,4 @@
 
 ---
 
-完整组件库其余部分（组件 1-5、8-16、骨架、配方表、映射规则）保持原样，下划线已全部替换为 background 模拟方案。
+完整组件库其余部分（组件 2-5、8-16、骨架、配方表、映射规则）保持原样，下划线已全部替换为 background 模拟方案。
