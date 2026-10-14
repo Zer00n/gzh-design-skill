@@ -14,6 +14,10 @@
 | 留白禅意风 | `#4A5D52` 墨绿 | 禅意冥想、极简生活、深度随笔、艺术留白（呼吸感最强） | `references/theme-zen-whitespace.md` | `border-bottom:1.5px solid #B5C8BC;font-weight:500;` |
 | 摸鱼票据风 | `#059669` emerald | 测评、工具对比、创意评测（票据/门票视觉隐喻，星级评分+编号+硬阴影卡片） | `references/theme-moyu-ticket.md` | `border-bottom:2px solid #A7F3D0;font-weight:600;` |
 | 橄榄手记 | `#1e1f23` 墨黑（配橙 `#ed7b2f`） | 内刊手记、深度评测、案例复盘、系统性说明文档（编辑部内刊质感，分节形式多样，信息密度偏高） | `references/theme-olive-journal.md` | `border-bottom:2px solid #ed7b2f;font-weight:600;` |
+| 云舞者青 | `#2F6F6A` transformative teal | 深度思考、科技观察、方法论、个人随笔（冷静清晰、现代自然、Cloud Dancer + Teal） | `references/theme-cloud-teal.md` | `border-bottom:2px solid #A8D5D0;font-weight:600;` |
+| 陶土手记 | `#B85C38` terracotta | 案例复盘、生活观察、访谈、观点长文（温暖手作、编辑部质感） | `references/theme-clay-journal.md` | `border-bottom:2px solid #E8C4B0;font-weight:600;` |
+| 苔绿静读 | `#5C7A56` moss sage | 极简生活、健康、艺术随笔、内省文章（自然安宁、低饱和） | `references/theme-sage-quiet.md` | `border-bottom:1.5px solid #C5D5C0;font-weight:500;` |
+| 李子墨 | `#6B3A4A` deep plum | 文化评论、人物特稿、深度观点（精致内敛、微奢） | `references/theme-plum-ink.md` | `border-bottom:2px solid #E0C8D0;font-weight:600;` |
 
 ## 选择建议
 
